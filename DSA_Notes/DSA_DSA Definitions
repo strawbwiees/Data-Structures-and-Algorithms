@@ -1,0 +1,58 @@
+# Introduction to Data Structures and Algorithms
+
+## Data Structures
+
+Data Structures is about how data can be stored in different structures.
+
+- A way to store data.
+- We structure data in different ways depending on what data we have, and what we want to do with it.
+- It gives us the possibility to manage large amounts of data efficiently for uses such as large databases and internet indexing services.
+- Essential tools in creating fast and powerful algorithms. They help in managing and organizing data, reduce complexity, and increase efficiency.
+
+### Two kinds of data structures
+
+#### 1. Primitive data structures
+
+Basic data structures provided by programming languages to represent single values, such as integers, floating-point numbers, characters, and Booleans.
+
+#### 2. Abstract data structures
+
+Higher-level data structures that are built using primitive data types and provide more complex and specialized operations.
+
+Examples:
+- Arrays
+- Linked Lists
+- Stacks
+- Queues
+- Trees
+- Graphs
+
+---
+
+## Algorithms
+
+Algorithms is about how to solve different problems, often by searching through and manipulating data structures.
+
+- A set of step-by-step instructions to solve a given problem or achieve a specific goal.
+- An efficient algorithm can help us to find the solution we are looking for, and to transform a slow program into a faster one.
+
+---
+
+## Data Structures and Algorithms
+
+DSA is about finding efficient ways to store and retrieve data, to perform operations on data, and to solve specific problems.
+
+---
+
+## Terminologies
+
+| Term | Definition |
+|------|------------|
+| Algorithm | A set of step-by-step instructions to solve a specific problem. |
+| Data Structure | A way of organizing data so it can be used efficiently. Common data structures include arrays, linked lists, and binary trees. |
+| Time Complexity | A measure of the amount of time an algorithm takes to run, depending on the amount of data the algorithm is working on. |
+| Space Complexity | A measure of the amount of memory an algorithm uses, depending on the amount of data the algorithm is working on. |
+| Big O Notation | A mathematical notation that describes the limiting behavior of a function when the argument tends towards a particular value or infinity. Used in this tutorial to describe the time complexity of an algorithm. |
+| Recursion | A programming technique where a function calls itself. |
+| Divide and Conquer | A method of solving complex problems by breaking them into smaller, more manageable sub-problems, solving the sub-problems, and combining the solutions. Recursion is often used when using this method in an algorithm. |
+| Brute Force | A simple and straightforward way an algorithm can work by simply trying all possible solutions and then choosing the best one. |
