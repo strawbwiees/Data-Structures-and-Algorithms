@@ -3,7 +3,7 @@ import java.util.Stack;
 public class DSA_Stacks {
     public static void main (String[] args) {
 
-        Stack<String> songs = new Stack<>();
+        Stack<String> songs = new Stack<>(); // LIFO - last in first out
         songs.push("Promise"); //push to add item sa stack
         songs.push("Same Page");
         songs.push("Just Friends?");
