@@ -1,1 +1,55 @@
-# DSA
+# Data Structures and Algorithms (Java)
+
+Welcome to my **Data Structures and Algorithms** repository.
+
+This repository serves as my personal learning journal and coding archive for Data Structures and Algorithms (DSA). It contains Java implementations, notes, and practice problems that I solve while studying Computer Science.
+
+---
+
+## 🛠️ Language
+
+- ☕ Java
+
+---
+
+## 📂 Repository Structure
+
+```text
+data-structures-and-algorithms/
+│
+├── DSA_Notes/
+│   ├── DSA_DSA Definitions
+│   └── ...
+│
+├── DSA_Codes/
+│   ├── Arrays/
+│   ├── Linked-List/
+│   ├── Stack/
+│   ├── Queue/
+│   ├── Tree/
+│   ├── HashTable/
+│   └── Graph/
+│
+│
+├── problems/
+│
+└── README.md
+```
+
+
+## PROGRESS
+
+In  progress
+
+## 📚 References
+
+- Course materials
+- Books and online resources
+- Personal notes and practice
+
+---
+
+## ⭐ About
+
+This repository is continuously updated as I learn new Data Structures and Algorithms concepts.
+If you find this repository helpful, feel free to explore the code and notes!
