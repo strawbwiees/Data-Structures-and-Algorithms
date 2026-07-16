@@ -3,7 +3,26 @@ import java.util.Stack;
 public class DSA_Stacks {
     public static void main (String[] args) {
 
-        Stack<String> songs = new Stack<>(); // LIFO - last in first out
+/*
+OVERVIEW
+Stacks - LIFO: last in first out (last inserted will be the first item to be removed.
+- Can only add/take/peek at the top
+
+Uses:
+1. Undo functionality
+- push: add element
+- pop: remove recently added element
+
+2. Symbol checker
+3. Function calls
+
+Implementation using singly linked lists.
+
+Methods: push, pop, peek, size, empty, search
+
+*/
+
+        Stack<String> songs = new Stack<>();
         songs.push("Promise"); //push to add item sa stack
         songs.push("Same Page");
         songs.push("Just Friends?");
