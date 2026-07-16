@@ -23,15 +23,17 @@ data-structures-and-algorithms/
 │
 ├── DSA_Codes/
 │   ├── Arrays/
-│   ├── Linked-List/
-│   ├── Stack/
+│   ├── Lists/
+│   ├── Maps/
 │   ├── Queue/
+│   ├── Sets/
+│   ├── Stack/
 │   ├── Tree/
 │   ├── HashTable/
 │   └── Graph/
 │
 │
-├── problems/
+├── DSA Practice Problems/
 │
 └── README.md
 ```
