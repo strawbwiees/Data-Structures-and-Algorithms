@@ -31,20 +31,20 @@ Examples:
 
 ## Algorithms
 
-Algorithms is about how to solve different problems, often by searching through and manipulating data structures.
+- Algorithms is about how to solve different problems, often by searching through and manipulating data structures.
 
 - A set of step-by-step instructions to solve a given problem or achieve a specific goal.
 - An efficient algorithm can help us to find the solution we are looking for, and to transform a slow program into a faster one.
 
 ---
 
-## Data Structures and Algorithms
+## Data Structures and Algorithms together
 
 DSA is about finding efficient ways to store and retrieve data, to perform operations on data, and to solve specific problems.
 
 ---
 
-## Terminologies
+## Common Terminologies
 
 | Term | Definition |
 |------|------------|
