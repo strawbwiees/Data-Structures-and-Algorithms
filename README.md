@@ -1,12 +1,12 @@
-# Data Structures and Algorithms (Java)
+# Data Structures and Algorithms
 
 Welcome to my **Data Structures and Algorithms** repository.
 
-This repository serves as my personal learning journal and coding archive for Data Structures and Algorithms (DSA). It contains Java implementations, notes, and practice problems that I solve while studying Computer Science.
+This repository serves as my personal learning journal and coding archive for Data Structures and Algorithms (DSA). It contains implementations, notes, and practice problems that I solve while studying Computer Science.
 
 ---
 
-## 🛠️ Language
+## 🛠️ Languages
 
 - ☕ Java
 
